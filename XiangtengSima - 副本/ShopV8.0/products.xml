@@ -1,0 +1,48 @@
+<object-stream>
+  <list>
+    <models.Product>
+      <productName>32 Inch TV</productName>
+      <productCode>3204</productCode>
+      <unitCost>199.44</unitCost>
+      <inCurrentProductLine>false</inCurrentProductLine>
+      <productDescriptions>
+        <entry>
+          <string>ENGLISH</string>
+          <string>32 inch TV with black surround</string>
+        </entry>
+        <entry>
+          <string>GERMAN</string>
+          <string>32 Inch TV mit schwarz umrandung</string>
+        </entry>
+      </productDescriptions>
+    </models.Product>
+    <models.Product>
+      <productName>Peanut Butter</productName>
+      <productCode>3422</productCode>
+      <unitCost>23.33</unitCost>
+      <inCurrentProductLine>true</inCurrentProductLine>
+      <productDescriptions/>
+    </models.Product>
+    <models.Product>
+      <productName>Almond Butter</productName>
+      <productCode>3432</productCode>
+      <unitCost>45.33</unitCost>
+      <inCurrentProductLine>true</inCurrentProductLine>
+      <productDescriptions/>
+    </models.Product>
+    <models.Product>
+      <productName>Walnut butter</productName>
+      <productCode>4332</productCode>
+      <unitCost>23.22</unitCost>
+      <inCurrentProductLine>true</inCurrentProductLine>
+      <productDescriptions/>
+    </models.Product>
+    <models.Product>
+      <productName>iPhone</productName>
+      <productCode>3323</productCode>
+      <unitCost>54.33</unitCost>
+      <inCurrentProductLine>false</inCurrentProductLine>
+      <productDescriptions/>
+    </models.Product>
+  </list>
+</object-stream>
